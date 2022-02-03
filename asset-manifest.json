@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rishika0711/social-media.git/static/css/main.9a2ac694.css",
+    "main.js": "/rishika0711/social-media.git/static/js/main.231e6b20.js",
+    "index.html": "/rishika0711/social-media.git/index.html",
+    "main.9a2ac694.css.map": "/rishika0711/social-media.git/static/css/main.9a2ac694.css.map",
+    "main.231e6b20.js.map": "/rishika0711/social-media.git/static/js/main.231e6b20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a2ac694.css",
+    "static/js/main.231e6b20.js"
+  ]
+}
